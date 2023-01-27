@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;justify-content:center;align-items:center;grid-row-gap:15px;row-gap:15px;min-height:100vh;text-align:center}.Carousel{position:relative;overflow:hidden}.Carousel__list{display:flex}.Carousel__list li{display:inline-block}.Carousel__buttons{display:flex;justify-content:center;grid-column-gap:20px;-webkit-column-gap:20px;column-gap:20px;padding:5px 0}.CarouselPanel{width:100%;max-width:400px}.CarouselPanel label{text-align:left}.infinite-checkbox{margin-right:10px}
+/*# sourceMappingURL=main.845e7604.chunk.css.map */
